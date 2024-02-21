@@ -1,0 +1,14 @@
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\bin\Debug\net7.0\csharp.exe
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\bin\Debug\net7.0\csharp.deps.json
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\bin\Debug\net7.0\csharp.runtimeconfig.json
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\bin\Debug\net7.0\csharp.dll
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\bin\Debug\net7.0\csharp.pdb
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\obj\Debug\net7.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\obj\Debug\net7.0\csharp.AssemblyInfoInputs.cache
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\obj\Debug\net7.0\csharp.AssemblyInfo.cs
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\obj\Debug\net7.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\obj\Debug\net7.0\csharp.dll
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\obj\Debug\net7.0\refint\csharp.dll
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\obj\Debug\net7.0\csharp.pdb
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\obj\Debug\net7.0\csharp.genruntimeconfig.cache
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\obj\Debug\net7.0\ref\csharp.dll
