@@ -1,0 +1,14 @@
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\bin\Debug\net7.0\session3.exe
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\bin\Debug\net7.0\session3.deps.json
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\bin\Debug\net7.0\session3.runtimeconfig.json
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\bin\Debug\net7.0\session3.dll
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\bin\Debug\net7.0\session3.pdb
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\obj\Debug\net7.0\session3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\obj\Debug\net7.0\session3.AssemblyInfoInputs.cache
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\obj\Debug\net7.0\session3.AssemblyInfo.cs
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\obj\Debug\net7.0\session3.csproj.CoreCompileInputs.cache
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\obj\Debug\net7.0\session3.dll
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\obj\Debug\net7.0\refint\session3.dll
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\obj\Debug\net7.0\session3.pdb
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\obj\Debug\net7.0\session3.genruntimeconfig.cache
+C:\Users\chandrancad01\Desktop\CADBATCH01\daily project\csharp\session3\obj\Debug\net7.0\ref\session3.dll
